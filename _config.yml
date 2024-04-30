@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sun Hui (孙辉)"
+title                    : "Meng Yan (阎萌)"
 description              : "Ph.D. candidate from NBJL-AIgroup. Focusing on Parallel Computing, AI for Data Compression and Information Security."
 repository               : "fahaihi/fahaihi.github.io"
 google_scholar_stats_use_cdn : true
